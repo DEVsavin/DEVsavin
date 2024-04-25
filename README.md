@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ## I'm Sávio José
 I'm studying to become a developer of websites, mobile apps and APIs.
@@ -20,19 +20,9 @@ I'm studying to become a developer of websites, mobile apps and APIs.
   
 ## My Skills ✍️
 <p>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg" height="35px" style="max-width:100%;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" height="35px" style="max-width:100%;">
   
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/apple.svg" height="35px"  style="max-width:100%;">
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" height="35px" style="max-width:100%;">
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" height="35px" style="max-width:100%;">
-  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/figma.svg" height="35px" style="max-width:100%;">
-
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" height="35px" style="max-width:100%;">
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" height="35px" style="max-width:100%;">
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" height="35px" style="max-width:100%;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" height="35px"  style="max-width:100%;">
  
  </p>
 
