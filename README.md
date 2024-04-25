@@ -4,7 +4,7 @@
 I'm studying to become a developer of websites, mobile apps and APIs.
 - 🇧🇷 I live in brazil. northeast 😎 🌅
 - 🔭 I’m currently working on app's and tasks
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, REACT NATIVE
+- 🌱 I’m currently learning PYTHON, C
 
 :computer: Here you will find some works i did while studying.
 
