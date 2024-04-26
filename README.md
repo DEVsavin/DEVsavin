@@ -2,8 +2,8 @@
 
 ## I'm Sávio José
 I'm studying to become a developer of websites, mobile apps and APIs.
-- 🇧🇷 I live in brazil. northeast 😎 🌅
-- 📚I’m currently working on app's and tasks
+- 🌎 🇧🇷 | brazil
+- 📚 I'm currently working on development.
 - 🎯 I’m currently learning PYTHON, C, HTML, CSS
 
 :computer: Here you will find some works i did while studying.
